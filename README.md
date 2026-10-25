@@ -1,252 +1,198 @@
-# 🚀 My Project Portfolio
+# 🚀 HackRoot1 Project Portfolio
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:FF6B35&height=180&section=header&text=My%20Development%20Projects&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Project Portfolio Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:FF6B35&height=180&section=header&text=My%20Project%20Collection&fontSize=36&fontColor=ffffff&animation=fadeIn" alt="Project Portfolio Banner" />
 </p>
 
 <p align="center">
-  A curated collection of my software development projects, practical implementations, and experiments.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Backend" />
-  <img src="https://img.shields.io/badge/Frontend-JavaScript%20%7C%20React-3178C6?style=for-the-badge&logo=react&logoColor=white" alt="Frontend" />
-  <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20MongoDB-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Database" />
+  <img src="https://img.shields.io/badge/PHP-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Frontend-React-JS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Stack-Full%20Stack-4C8BF5?style=for-the-badge" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20DevOps-0A0A0A?style=for-the-badge" alt="Backend & DevOps" />
 </p>
 
 <p align="center">
   <a href="https://github.com/HackRoot1">
-    <img src="https://img.shields.io/badge/←%20Back%20to%20GitHub%20Profile-181717?style=for-the-badge&logo=github" alt="Back to GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-HackRoot1-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
   </a>
   <a href="https://saurabh-damale-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
   </a>
 </p>
 
----
-
-## 👨‍💻 About This Repository
-
-Welcome to my development project catalog.
-
-I'm **Saurabh Damale**, a Senior Laravel Developer focused on backend development, REST APIs, database-driven applications, and full-stack web development.
-
-This repository serves as a central directory for exploring my work. Projects are organized by category so that developers, recruiters, and collaborators can easily find relevant source code and documentation.
-
-### 🎯 What You'll Find Here
-
-- PHP and Laravel applications
-- Full-stack web development projects
-- REST API implementations and integrations
-- Database-driven business applications
-- Developer tools and experiments
-- Learning projects and DevOps implementations
-
-> Each substantial project has its own repository with its source code, README, setup instructions, and project-specific documentation.
+Welcome to my project portfolio. This repository is a curated directory of my public work, including Laravel applications, frontend projects, productivity tools, learning repositories, and deployment-focused projects.
 
 ---
 
-## 📂 Project Directory
+## 📌 About Me
 
-### 01. 🐘 PHP & Laravel Projects
+I am a developer focused on building practical, scalable, and business-oriented web applications. My projects cover backend engineering, database-driven systems, admin dashboards, API integrations, UI development, and DevOps learning.
 
-Backend applications, business systems, and Laravel implementations.
-
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Technology</th>
-      <th>Repository</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>CraveBox</b></td>
-      <td>Restaurant management platform</td>
-      <td>Laravel, PHP, MySQL</td>
-      <td><a href="https://github.com/HackRoot1/CraveBox">View Project →</a></td>
-    </tr>
-    <tr>
-      <td><b>JobSphere</b></td>
-      <td>Job board and recruitment platform</td>
-      <td>PHP, MySQL, JavaScript</td>
-      <td><a href="https://github.com/HackRoot1/JobSphere">View Project →</a></td>
-    </tr>
-  </tbody>
-</table>
-
-### 02. 🌐 Full-Stack Applications
-
-Applications combining frontend interfaces, backend services, and database operations.
-
-| Project | Description | Repository |
-|---|---|---|
-| E-commerce Platform | Product catalog and order workflows | [View Projects](https://github.com/HackRoot1?tab=repositories) |
-| ERP / Inventory Systems | Business operations and inventory management | [View Projects](https://github.com/HackRoot1?tab=repositories) |
-
-*Add individual repository links when these projects are published.*
-
-### 03. 🧰 Developer Tools & Utilities
-
-Tools, experiments, and utilities built to solve practical problems.
-
-| Project | Description | Repository |
-|---|---|---|
-| Yashtools | Online utilities and developer tools | [Browse Repositories](https://github.com/HackRoot1?tab=repositories) |
-| PHP Learning Notes | PHP examples and reference material | [Browse Repositories](https://github.com/HackRoot1?tab=repositories) |
-
-*Replace these entries with your actual public repositories when available.*
-
-### 04. ⚙️ APIs & Backend Engineering
-
-Implementations focused on API development, authentication, database design, and backend architecture.
-
-| Project Type | Description |
-|---|---|
-| REST APIs | API endpoints, request validation, and response handling |
-| Authentication | Login, authorization, and access control |
-| Integrations | External services and payment gateway integrations |
-| Database Design | Relational data modeling and query optimization |
-
-[Explore my public repositories →](https://github.com/HackRoot1?tab=repositories)
-
-### 05. ☁️ DevOps & Infrastructure
-
-Learning resources and implementations related to deploying and maintaining applications.
-
-| Area | Focus |
-|---|---|
-| Linux | Server administration and command-line workflows |
-| Docker | Containerized application development |
-| AWS | Cloud infrastructure and deployment |
-| Laravel Deployment | Production configuration and application hosting |
-
-*This section will expand as I publish dedicated repositories and practical implementations.*
+- Backend: PHP, Laravel
+- Frontend: JavaScript, React, Tailwind, HTML/CSS
+- Database: MySQL
+- DevOps: Linux, Deployment workflows, server practices
 
 ---
 
-## ⭐ Featured Projects
+## 🌟 Featured Projects
 
-### 🍽️ CraveBox — Restaurant Management Platform
+### 1) CraveBox
+A restaurant management platform for handling orders, menu management, reservations, and payment flows.
 
-A Laravel-based application focused on restaurant operations.
+- Stack: Laravel, PHP, MySQL, Bootstrap, Razorpay
+- Repo: https://github.com/HackRoot1/CraveBox
 
-**Highlights**
-- Restaurant menu management
-- Table reservation functionality
-- Order tracking and management
-- Razorpay payment integration
+### 2) portfolio
+Personal portfolio website built to showcase projects, skills, and profile information.
 
-**Stack:** `PHP` `Laravel` `MySQL` `Bootstrap` `Razorpay API`
+- Stack: Frontend, HTML/CSS, JavaScript
+- Repo: https://github.com/HackRoot1/portfolio
 
-[View Source Code →](https://github.com/HackRoot1/CraveBox)
+### 3) laravel-crm
+A customer relationship management application designed to manage leads, customers, and internal operations.
 
-### 💼 JobSphere — Job Board Platform
+- Stack: Laravel, PHP, MySQL
+- Repo: https://github.com/HackRoot1/laravel-crm
 
-A job portal connecting job seekers and employers.
+### 4) react-firebase-chatapp
+A real-time chat application with frontend and Firebase-based backend features.
 
-**Highlights**
-- User authentication
-- Dynamic job listings
-- Job seeker and employer workflows
-- Interactive frontend functionality
+- Stack: React, Firebase, JavaScript
+- Repo: https://github.com/HackRoot1/react-firebase-chatapp
 
-**Stack:** `PHP` `MySQL` `HTML` `CSS` `JavaScript` `jQuery` `AJAX`
+### 5) HMS
+A healthcare or management application for structured operational workflows.
 
-[View Source Code →](https://github.com/HackRoot1/JobSphere)
-
----
-
-## 🧱 Repository Structure
-
-This catalog organizes project links and supporting documentation. Application source code remains in its own repository.
-
-```text
-my-projects/
-│
-├── README.md
-│
-├── assets/
-│   ├── banner.png
-│   └── project-thumbnails/
-│
-├── laravel-php/
-│   └── README.md
-│
-├── full-stack/
-│   └── README.md
-│
-├── developer-tools/
-│   └── README.md
-│
-├── apis-backend/
-│   └── README.md
-│
-└── devops/
-    └── README.md
-```
-
-The folders above are a proposed structure. Create them when you need additional category-specific documentation; they are not created automatically by this README.
+- Stack: PHP / Laravel / App System
+- Repo: https://github.com/HackRoot1/HMS
 
 ---
 
-## 📋 Project Documentation Standards
+## 🗂️ Project Directory
 
-I aim to keep every project repository easy to understand and run.
+### PHP & Laravel Projects
 
-- [ ] Clear project overview and purpose
-- [ ] Features and technology stack
-- [ ] Screenshots or live demo, when available
-- [ ] Installation and configuration instructions
-- [ ] Environment variable documentation
-- [ ] Database setup and migration instructions
-- [ ] API documentation, where applicable
-- [ ] License and contribution guidelines, where appropriate
+| Project | Description | Tech Stack | Link |
+| --- | --- | --- | --- |
+| Admin-Kit | Admin dashboard starter project for building backend interfaces. | PHP, Laravel, Bootstrap | [View Repo](https://github.com/HackRoot1/Admin-Kit) |
+| Admin-Kit-Template | Ready-made template for admin panel and dashboard layouts. | PHP, Laravel, UI | [View Repo](https://github.com/HackRoot1/Admin-Kit-Template) |
+| CraveBox | Restaurant management platform with order and payments. | Laravel, PHP, MySQL | [View Repo](https://github.com/HackRoot1/CraveBox) |
+| HMS | Business or hospital management application. | PHP, Laravel | [View Repo](https://github.com/HackRoot1/HMS) |
+| laravel-boilerplate | Starter template for Laravel applications. | Laravel, PHP | [View Repo](https://github.com/HackRoot1/laravel-boilerplate) |
+| laravel-crm | CRM system built for client and business workflow management. | Laravel, PHP, MySQL | [View Repo](https://github.com/HackRoot1/laravel-crm) |
+| laravel-module-wise-code | Modular Laravel project structure and code samples. | Laravel, PHP | [View Repo](https://github.com/HackRoot1/laravel-module-wise-code) |
+| laravel-roles-and-permissions-project | Role-based access control project for Laravel apps. | Laravel, PHP, MySQL | [View Repo](https://github.com/HackRoot1/laravel-roles-and-permissions-project) |
+| Laravel-Learning | Learning repository focused on Laravel concepts and practices. | Laravel, PHP | [View Repo](https://github.com/HackRoot1/Laravel-Learning) |
+| coding-standards-laravel | Coding standards and best practices for Laravel projects. | Laravel, PHP | [View Repo](https://github.com/HackRoot1/coding-standards-laravel) |
+| core-php-mail-boilerplate | Core PHP email boilerplate and mail-related project setup. | PHP, Mail, SMTP | [View Repo](https://github.com/HackRoot1/core-php-mail-boilerplate) |
+| deployment-checklist | Deployment checklist and operational guidance for web apps. | DevOps, Deployment | [View Repo](https://github.com/HackRoot1/deployment-checklist) |
+| php-seo-deployment-checklist | SEO and deployment checklist for PHP-based projects. | PHP, SEO, DevOps | [View Repo](https://github.com/HackRoot1/php-seo-deployment-checklist) |
+
+### Frontend & UI Projects
+
+| Project | Description | Tech Stack | Link |
+| --- | --- | --- | --- |
+| portfolio | Personal portfolio and profile website. | HTML, CSS, JavaScript | [View Repo](https://github.com/HackRoot1/portfolio) |
+| portfolio-admin-panel | Admin panel for managing portfolio content and assets. | Frontend, JS, UI | [View Repo](https://github.com/HackRoot1/portfolio-admin-panel) |
+| restaurant-landing-page-react-tailwind | Restaurant landing page built using React and Tailwind CSS. | React, Tailwind, JavaScript | [View Repo](https://github.com/HackRoot1/restaurant-landing-page-react-tailwind) |
+| e-commerce-food-template | Food e-commerce template with storefront UI. | HTML, CSS, JS | [View Repo](https://github.com/HackRoot1/e-commerce-food-template) |
+| E-commerce-template | E-commerce template for online shops and product displays. | HTML, CSS, JS | [View Repo](https://github.com/HackRoot1/E-commerce-template) |
+| template-4 | Generic UI template or design starter. | HTML, CSS, JS | [View Repo](https://github.com/HackRoot1/template-4) |
+
+### JavaScript & React Projects
+
+| Project | Description | Tech Stack | Link |
+| --- | --- | --- | --- |
+| JS-Projects | Collection of JavaScript mini-projects and web experiments. | JavaScript | [View Repo](https://github.com/HackRoot1/JS-Projects) |
+| JS-Projects2 | Second set of JavaScript-based practice and UI projects. | JavaScript | [View Repo](https://github.com/HackRoot1/JS-Projects2) |
+| react-firebase-chatapp | Real-time chat app using React and Firebase. | React, Firebase | [View Repo](https://github.com/HackRoot1/react-firebase-chatapp) |
+| restaurant-management-system | Restaurant operations system with management features. | JavaScript, PHP, UI | [View Repo](https://github.com/HackRoot1/restaurant-management-system) |
+| RMS-System | Another restaurant management system repository. | JavaScript, PHP | [View Repo](https://github.com/HackRoot1/RMS-System) |
+
+### Business / Management Projects
+
+| Project | Description | Tech Stack | Link |
+| --- | --- | --- | --- |
+| cricket-organization | Organizational project related to cricket management or team operations. | Business, Web App | [View Repo](https://github.com/HackRoot1/cricket-organization) |
+| vault-system | Vault management or secure resource management system. | Web App, Business Logic | [View Repo](https://github.com/HackRoot1/vault-system) |
+| vault-system-app | Application layer for the vault-system project. | Web App, Business Flow | [View Repo](https://github.com/HackRoot1/vault-system-app) |
+| Assets-Cleaner | Tool for cleaning and organizing project assets. | Utility, Dev Tool | [View Repo](https://github.com/HackRoot1/Assets-Cleaner) |
+| Cake-2-U | Project built around CakePHP or a learning-based application. | PHP, Framework | [View Repo](https://github.com/HackRoot1/Cake-2-U) |
+
+### Learning & DevOps Repositories
+
+| Project | Description | Tech Stack | Link |
+| --- | --- | --- | --- |
+| linux-for-devops | Linux and infrastructure learning resources for DevOps workflows. | Linux, DevOps | [View Repo](https://github.com/HackRoot1/linux-for-devops) |
+| my-projects | Central catalog of all public repositories and project links. | Portfolio, Documentation | [View Repo](https://github.com/HackRoot1/my-projects) |
+| HackRoot1 | Main profile repository for the GitHub profile and project references. | GitHub, Profile | [View Repo](https://github.com/HackRoot1/HackRoot1) |
+
+---
+
+## 📦 Complete Repository List
+
+| Title | Description | Repository |
+| --- | --- | --- |
+| Admin-Kit | Admin dashboard starter kit | [Open](https://github.com/HackRoot1/Admin-Kit) |
+| Admin-Kit-Template | Admin panel template project | [Open](https://github.com/HackRoot1/Admin-Kit-Template) |
+| Assets-Cleaner | Utility project for asset cleanup | [Open](https://github.com/HackRoot1/Assets-Cleaner) |
+| Cake-2-U | PHP framework-based project | [Open](https://github.com/HackRoot1/Cake-2-U) |
+| coding-standards-laravel | Laravel coding standards repository | [Open](https://github.com/HackRoot1/coding-standards-laravel) |
+| core-php-mail-boilerplate | Boilerplate for PHP email solutions | [Open](https://github.com/HackRoot1/core-php-mail-boilerplate) |
+| CraveBox | Restaurant management system | [Open](https://github.com/HackRoot1/CraveBox) |
+| cricket-organization | Organization management app | [Open](https://github.com/HackRoot1/cricket-organization) |
+| deployment-checklist | Deployment and process checklist | [Open](https://github.com/HackRoot1/deployment-checklist) |
+| e-commerce-food-template | Food storefront template | [Open](https://github.com/HackRoot1/e-commerce-food-template) |
+| E-commerce-template | E-commerce starter template | [Open](https://github.com/HackRoot1/E-commerce-template) |
+| HackRoot1 | GitHub profile repository | [Open](https://github.com/HackRoot1/HackRoot1) |
+| HMS | Management system project | [Open](https://github.com/HackRoot1/HMS) |
+| JS-Projects | JavaScript practice collection | [Open](https://github.com/HackRoot1/JS-Projects) |
+| JS-Projects2 | Additional JS project collection | [Open](https://github.com/HackRoot1/JS-Projects2) |
+| laravel-boilerplate | Laravel starter template | [Open](https://github.com/HackRoot1/laravel-boilerplate) |
+| laravel-crm | CRM application | [Open](https://github.com/HackRoot1/laravel-crm) |
+| Laravel-Learning | Laravel learning references | [Open](https://github.com/HackRoot1/Laravel-Learning) |
+| laravel-module-wise-code | Modular Laravel code examples | [Open](https://github.com/HackRoot1/laravel-module-wise-code) |
+| laravel-roles-and-permissions-project | Authentication and role management project | [Open](https://github.com/HackRoot1/laravel-roles-and-permissions-project) |
+| linux-for-devops | DevOps and Linux learning repository | [Open](https://github.com/HackRoot1/linux-for-devops) |
+| my-projects | Project portfolio catalog | [Open](https://github.com/HackRoot1/my-projects) |
+| php-seo-deployment-checklist | SEO and deployment practices | [Open](https://github.com/HackRoot1/php-seo-deployment-checklist) |
+| portfolio | Personal content portfolio | [Open](https://github.com/HackRoot1/portfolio) |
+| portfolio-admin-panel | Portfolio admin area | [Open](https://github.com/HackRoot1/portfolio-admin-panel) |
+| react-firebase-chatapp | Real-time chat app | [Open](https://github.com/HackRoot1/react-firebase-chatapp) |
+| restaurant-landing-page-react-tailwind | Restaurant landing page | [Open](https://github.com/HackRoot1/restaurant-landing-page-react-tailwind) |
+| restaurant-management-system | Restaurant operations system | [Open](https://github.com/HackRoot1/restaurant-management-system) |
+| RMS-System | Restaurant management system variant | [Open](https://github.com/HackRoot1/RMS-System) |
+| template-4 | UI template repository | [Open](https://github.com/HackRoot1/template-4) |
+| vault-system | Vault management system | [Open](https://github.com/HackRoot1/vault-system) |
+| vault-system-app | App version of vault-system | [Open](https://github.com/HackRoot1/vault-system-app) |
 
 ---
 
 ## 📈 Development Focus
 
-Areas I'm working to improve through practical development:
-
-- Advanced Laravel architecture
-- Secure and maintainable API development
-- Database optimization and query performance
-- Authentication and authorization
-- Docker and Linux environments
-- AWS deployment and DevOps workflows
-- Testing, debugging, and code quality
+- Laravel and backend system design
+- Full-stack web application development
+- REST API development and integration
+- Admin panel and dashboard creation
+- JavaScript and React interface development
+- Linux, deployment, and DevOps workflows
+- Business application solutions and automation
 
 ---
 
-## 🤝 Collaboration
+## 🤝 Connect
 
-I'm interested in collaborating on useful web applications, backend systems, developer tools, and open-source projects.
+If you'd like to collaborate, review code, or discuss a project idea, feel free to connect.
 
-If you find a project interesting, explore its repository and open an issue or discussion where appropriate.
+- GitHub: https://github.com/HackRoot1
+- Portfolio: https://saurabh-damale-portfolio.vercel.app/
+- Email: saurabh.damale.developer@gmail.com
 
 <p align="center">
-  <a href="mailto:saurabh.damale.developer@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/HackRoot1">
-    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://saurabh-damale-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Personal%20Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:FF2D20&height=90&section=footer" alt="Footer Banner" />
 </p>
 
 <p align="center">
   <i>Building practical software, learning through implementation, and improving one project at a time.</i>
-</p>
-
-<p align="center">
-  <sub>Maintained by Saurabh Damale · Maharashtra, India</sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:FF2D20&height=100&section=footer" alt="Footer" />
 </p>
